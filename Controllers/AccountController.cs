@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Authorization;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using SchoolManagementApp.MVC.Models;
-
+ 
 namespace SchoolManagementApp.MVC.Controllers;
 public class AccountController : Controller
 {
